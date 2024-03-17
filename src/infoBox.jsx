@@ -9,10 +9,10 @@ import WaterDropIcon from '@mui/icons-material/WaterDrop';
 import AirIcon from '@mui/icons-material/Air';
 
 export default function InfoBox({info}){
-    const HOT_IMG="./src/hot.jpg";
-    const COLD_IMG="./src/cold1.jpg";
-    const RAIN_IMG="./src/rain.jpg";
-    const DUSTY_IMG="./src/dusty.jpg";
+    const HOT_IMG="./src/assets/hot.jpg";
+    const COLD_IMG="./src/assets/cold1.jpg";
+    const RAIN_IMG="./src/assets/rain.jpg";
+    const DUSTY_IMG="./src/assets/dusty.jpg";
 
 
     return(
